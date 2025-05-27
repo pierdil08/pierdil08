@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Pierce Dillon 👋
+
+🎓 **Student at Northwestern University**  
+Majoring in Applied Mathematics, minoring in Data Science & Machine Learning
+
+---
+
+## 🚀 About Me
+
+I'm a passionate and curious student with a love for numbers, algorithms, and turning data into insights. As I pursue my degree at Northwestern, I'm building a strong foundation in both mathematical theory and cutting-edge computational tools.
+
+- 🔍 **Current Goals:**  
+  - Land a data analyst role to expand my real-world experience  
+  - Pursue a PhD in a quantitative field
+
+- 🛠️ **Top Skills:**  
+  - **Programming:** MATLAB, Python, C, C++, SQL  
+  - **Simulation & Modeling:** GROMACS, packmol  
+  - **Specialties:** Optimization, scientific computing, data analysis
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn: pierce-dillon](https://www.linkedin.com/in/pierce-dillon)
+
+---
+
+> "Mathematics is the language in which God has written the universe." – Galileo Galilei
 
 <!--
-**pierdil08/pierdil08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+If you’d like to showcase GitHub stats, pinned projects, or custom sections, let me know!
 -->
