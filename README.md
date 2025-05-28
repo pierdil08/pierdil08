@@ -10,8 +10,8 @@ Majoring in Applied Mathematics, minoring in Data Science & Machine Learning
 I'm a passionate and curious student with a love for numbers, algorithms, and turning data into insights. As I pursue my degree at Northwestern, I'm building a strong foundation in both mathematical theory and cutting-edge computational tools.
 
 - 🔍 **Current Goals:**  
-  - Land a data analyst role to expand my real-world experience  
-  - Pursue a PhD in a quantitative field
+  - Learn new skills through a data-intensive full time position. 
+  - Return to school to pursue a PhD in a quantitative field.
 
 - 🛠️ **Top Skills:**  
   - **Programming:** MATLAB, Python, C, C++, SQL  
